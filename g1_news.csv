@@ -1,0 +1,21 @@
+,news,sentiment
+0,"Título: Economist fala em 'nova guerra fria' e aponta Taiwan como 'ponto de ignição' 
+ Descrição: Revista britânica sugere que os taiwanêses estejam ""prontos para fazer sacrifícios"" por sua ""liberdade""",NEUTRO
+1,"Título: STF concede liberdade provisória a mais 80 presos pelo 8 de Janeiro 
+ Descrição: Liberados deverão cumprir medidas cautelares; 522 envolvidos em atos extremistas ainda estão presas. Leia no Poder360.",POSITIVO
+2,"Título: Moraes concede liberdade provisória para outros 80 presos por atos do dia 8 
+ Descrição: Grupo será monitorado por tornozeleira eletrônica e irá responder por incitação ao crime e associação criminosa",NEUTRO
+3,"Título: Moraes solta 80 presos nos atos golpistas de 8 de janeiro 
+ Descrição: Em troca da liberdade, acusados deverão cumprir medidas cautelares",NEUTRO
+4,"Título: STF concede liberdade provisória a mais 80 denunciados por 8/1 
+ Descrição: Consultor Jurídico - Notícias, 10/3/2023 - STF concede liberdade provisória a mais 80 denunciados por 8/1 [Criminal]",POSITIVO
+5,"Título: Ana Paula Renault discute com Nikolas Ferreira em voo; veja o vídeo 
+ Descrição: Jornalista e ex-BBB questionou o parlamentar sobre falas transfóbicas na Câmara e ele disse que continuará com esse discurso pois tem liberdade de expressão",NEUTRO
+6,"Título: #vemprabh realiza walking tours durante quatro dias na capital mineira 
+ Descrição: Passeios passarão pelas obras de Niemeyer, Parque das Mangabeiras e Circuito Liberdade; experiência inclui cafés",POSITIVO
+7,"Título: Polícia civil investiga crime de execução, no bairro da Liberdade 
+ Descrição: A vítima foi baleada três vezes e morreu no local.",NEGATIVO
+8,"Título: STF manda soltar mais 80 participantes de atos de 8 de janeiro 
+ Descrição: O ministro do STF Alexandre de Moraes concedeu liberdade provisória a mais 80 presos por participarem dos atos antidemocráticos em 8 de janeiro",POSITIVO
+9,"Título: PCO sai em defesa do mandato de Nikolas Ferreira 
+ Descrição: “A tentativa de cassar o deputado por um discurso proferido no Congresso é uma política medieval. Qualquer cidadão tem o direito a liberdade de expressão”, diz o partido",POSITIVO
